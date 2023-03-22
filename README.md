@@ -1,12 +1,13 @@
 # How to complie & run programs
-how to run programs of differnt lang from linux terminal 
+
 # C 
-gcc filename.c -o filename.out
-./filename
+gcc filename.c -o filename.out<br>
+./filename.out
 # C++
-g++ filename.cpp -o filename.ou
+g++ filename.cpp -o filename.out<br>
+./filename.out
 # Java
-javac Main.java
+javac Main.java<br>
 java Main
 # Py
 python3 filename.py
